@@ -1,0 +1,67 @@
+
+
+
+
+.orglogo {
+    display: flex;
+    flex-direction: row;
+   gap: 40px;
+  justify-content: start;
+  justify-content: space-around;
+  width: 35%;
+ 
+
+}
+
+#logo {
+
+    height: 40px;
+    width: 200px;
+}
+
+#login {
+
+    background-color: #Eb662B;
+    border: solid  #Eb662B 15px;
+    border-radius: 40px;
+    color: aliceblue;
+   
+
+
+}
+
+.categoriasnav {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: end;
+    gap: 80px;
+    width: 105%;
+    font-size: 17px;
+  
+}
+
+a {
+    text-decoration: none;
+    list-style: none;
+
+}
+
+ul {list-style: none;
+
+}
+
+.orgnav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 250px;
+    text-decoration: none;
+    list-style: none;
+    align-items: center;
+
+    height: 100px;
+   
+   
+}

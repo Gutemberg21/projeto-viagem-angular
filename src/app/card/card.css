@@ -1,0 +1,51 @@
+.titulosegundaparte {
+display: flex;
+
+ 
+    
+   
+  margin-left: 120px;
+  margin-top: 100px;
+
+
+}
+
+.ticketpng {
+display: flex;
+flex-direction: row;
+
+
+
+    
+}
+
+.orgsegundasection {
+
+  
+    margin-left: 120px;
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    height: 150px;
+   
+ 
+}
+
+.caixa-segundasecao {
+  
+    width: 240px;
+   
+
+}
+
+.textosection {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1520px;
+    margin-top: 240px;
+    margin-left: 120px;
+ 
+
+}
