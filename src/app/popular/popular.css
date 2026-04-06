@@ -1,0 +1,20 @@
+.textosection {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1520px;
+    margin-top: 240px;
+    margin-left: 120px;
+ 
+
+}
+
+
+.imgterceira {
+
+
+margin-left: 60px;
+
+
+}

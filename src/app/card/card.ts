@@ -6,4 +6,19 @@ import { Component } from '@angular/core';
   templateUrl: './card.html',
   styleUrl: './card.css',
 })
-export class Card {}
+export class Card {
+  tituloPrincipal = Why
+
+diferencials = {
+
+  icone: '/assets/ticket.svg.png',
+titulo: 'Ultimate Flexibility',
+descricao: 'You´re is contro, with free cancllation';
+
+
+
+
+
+}
+
+}

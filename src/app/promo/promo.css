@@ -1,0 +1,39 @@
+.titulosegundobanner {
+
+    font-size: 45px;
+    width: 420px;
+    font: bold;
+    height: 110px;
+
+}
+
+.off {
+    color: #Eb662B;
+    font-size: 45px;
+}
+
+.btnoff {
+
+    width: 130px;
+    height: 62px;
+    background-color: #Eb662B;
+    color: white;
+    border: none;
+    border-radius: 15px;
+}
+
+.segundobanner {
+
+  
+    width: 750px;
+    height: 600px;
+}
+
+.orgbannerdois {
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    justify-content: center;
+ 
+}

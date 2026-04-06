@@ -1,0 +1,85 @@
+.toptrend {
+
+    background-color: #F5F5F5;
+    height: 767PX;
+}
+
+.textosectiontop {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1520px;
+    padding-top: 150px;
+    margin-top: 400px;
+    margin-left: 120px;
+ 
+
+}
+
+.cardpopular {
+    width: 300px;
+    height: 388px;
+    border: solid 2px;
+    border-color: #e7e6e6c5;
+    border-radius: 15px;
+   margin-left: 90px;
+   margin-top: 40px;
+    
+}
+
+.imgquadriciculo {
+
+    width: 278px;
+    height: 198px;
+    margin: 10px;
+}
+
+.descricaopopular {
+
+    color: #717171;
+    display: flex;
+    justify-content: space-evenly;
+    width: 150px;
+    height: 15px;
+}
+
+.subtitulocard {
+display: flex;
+    justify-content: space-evenly;
+     width: 240px;
+     margin-left: 12px;
+     height: 70px;
+   
+}
+
+.avaliacaocard {
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+    width: 240px;
+    height: 20px;
+    padding: 0;
+}
+
+.precocard {
+
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-between;
+    width: 270px;
+    margin-left: 12px;
+}
+
+hr {
+   width: 90%;
+}
+
+.orgcardspopular {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
