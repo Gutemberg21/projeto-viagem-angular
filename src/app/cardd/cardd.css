@@ -27,25 +27,8 @@ flex-direction: row;
     flex-direction: row;
     gap: 100px;
     height: 150px;
+    width: 85%;
    
  
 }
-
-.caixa-segundasecao {
-  
-    width: 240px;
-   
-
-}
-
-.textosection {
-
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 1520px;
-    margin-top: 240px;
-    margin-left: 120px;
- 
-
 }

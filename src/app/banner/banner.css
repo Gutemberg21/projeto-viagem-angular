@@ -1,0 +1,92 @@
+.banner {
+
+    background-image: url("/assets/banner.png"); 
+    width: 1800px;
+    width: 96%;
+    height: 700px;
+    border-radius: 15px;
+    display: flex;
+    margin-left: 40px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.titulobanner {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 300px; 
+    color: white;
+}
+
+h1 {
+    font-size: 85px;
+    height: 49px;
+    
+}
+
+.botaocaixapesquisa {
+
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    border: solid 1px;
+}
+
+.textocaixapesquisa {
+
+    color: black;
+    font-size: 16px;
+    height: 90%;
+
+}
+
+.subtitulocaixasearch {
+
+    color: #717171;
+}
+
+.orgcaixapesquisa {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    margin-left: 10px;
+}
+
+.caixa-pesquisa {
+
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    background-color: aliceblue;
+    width: 890px;
+    border-radius: 20px;
+}
+
+.botaosearch {
+
+    width: 136px;
+    height: 60px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    font-size: 18px;
+    border: none;
+    background-color: #Eb662B;
+    color: white;
+}
+
+.orgbotaosearch {
+
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    
+}

@@ -1,0 +1,64 @@
+
+.text {
+    background-image: url("/assets/text.png");
+    width: 1510px;
+    height: 515px;
+    justify-content: center;
+    margin-left: 120px;
+    border-radius: 15px;
+}
+
+.textoultimobanner {
+
+    color: white;
+    font-size: 50px;
+    width: 30%;
+    display: flex;
+    justify-content: start;
+   flex-direction: column;  
+    padding: 80px;
+    height: 130px;
+}
+
+.ultimotexto {
+    font-size: 19px;
+    height: 90px;
+    padding-left: 80px;
+    width: 350px;
+    color: white;
+}
+
+.email {
+
+    width: 350px;
+    height: 60px;
+    background-color:rgb(255, 255, 255);
+   
+    margin-left: 80px;
+    border-radius: 10px;
+}
+
+.textoemail {
+
+    display: flex;
+    justify-content: start;
+    align-items: center;
+   padding: 5px;
+   padding-left: 15px;
+    color: #acacac;
+}
+
+.orgemail {
+
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.botaoemail {
+
+    width: 107px;
+    height: 60px;
+    border-radius: 10px;
+    border: none;
+}

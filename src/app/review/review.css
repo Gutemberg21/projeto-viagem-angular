@@ -1,0 +1,38 @@
+.reviwers {
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-top: 200px;
+
+}
+
+.imgreviwers {
+
+    width: 100px;
+    height: 100px;
+}
+
+.tituloreview {
+
+    font-size: 30px;
+}
+
+.avaliacao {
+
+    color: #Eb662B;
+}
+
+.textoavaliacao {
+
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.jhon {
+    width: 5%;
+}
